@@ -1,0 +1,24 @@
+{
+  "name": "mimo-openclaw-agent-harness",
+  "version": "0.1.0",
+  "description": "A lightweight MiMo API integration harness for OpenClaw and Japanese AI agent workflows.",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "mimo",
+    "xiaomi",
+    "openclaw",
+    "ai-agent",
+    "cursor",
+    "claude-code",
+    "japanese-ai"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
